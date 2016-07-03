@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{EAA6EA
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlTest", "MySqlTest\MySqlTest.csproj", "{A93AD2AE-2E57-4930-B425-D84945CD4477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToMySql", "ToMySql\ToMySql.csproj", "{168CA140-3A40-4055-A71B-EA40EAC11671}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +81,26 @@ Global
 		{A43DC412-33C9-4055-8A46-702D743C885C}.Release|Mixed Platforms.Build.0 = Release|x86
 		{A43DC412-33C9-4055-8A46-702D743C885C}.Release|x86.ActiveCfg = Release|x86
 		{A43DC412-33C9-4055-8A46-702D743C885C}.Release|x86.Build.0 = Release|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Debug|x86.ActiveCfg = Debug|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Debug|x86.Build.0 = Debug|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Release|Any CPU.ActiveCfg = Release|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Release|x86.ActiveCfg = Release|x86
+		{A93AD2AE-2E57-4930-B425-D84945CD4477}.Release|x86.Build.0 = Release|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Debug|x86.ActiveCfg = Debug|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Debug|x86.Build.0 = Debug|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Release|Any CPU.ActiveCfg = Release|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Release|Mixed Platforms.Build.0 = Release|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Release|x86.ActiveCfg = Release|x86
+		{168CA140-3A40-4055-A71B-EA40EAC11671}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
