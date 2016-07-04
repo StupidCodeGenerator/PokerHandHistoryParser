@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HandHistories.Objects.UnitTests\HandHistories.Objects.UnitTests.csproj">
