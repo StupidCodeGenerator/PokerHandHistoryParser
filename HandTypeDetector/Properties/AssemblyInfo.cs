@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过以下
 // 特性集控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("DataView")]
+[assembly: AssemblyTitle("HandTypeDetector")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("DataView")]
+[assembly: AssemblyProduct("HandTypeDetector")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("7b8f6a48-75ea-4640-bc26-f7fd36b71c3c")]
+[assembly: Guid("60733cbc-2a86-4f8a-9205-13df07a2e885")]
 
 // 程序集的版本信息由下面四个值组成: 
 //
